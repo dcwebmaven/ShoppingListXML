@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<!DOCTYPE ShoppingList>
+<ShoppingList>
+<Item Type="journal">
+<Title>Blank Journal</Title>
+<Author>Pomegranate</Author>
+<Description>Red leather gold-leaf blank journal</Description>
+<Quantity>10</Quantity>
+<Price Type="regular">$19.95</Price>
+<Price Type="sale">$9.95</Price>
+</Item>
+<Item Type="dictionary">
+<Title>Oxford Etymological Dictionary</Title>
+<Author>Oxford Univeristy Press</Author>
+<Description>Latest edition</Description>
+<Quantity>1</Quantity>
+<Price Type="regular">$50.00</Price>
+<Price Type="sale">$25.00</Price>
+</Item>
+<Item Type="fiction">
+<Title>The Simarillion</Title>
+<Author>J.R.R. Tolkien</Author>
+<Description>First edition</Description>
+<Quantity>1</Quantity>
+<Price Type="regular">$665.00</Price>
+<Price Type="sale">$440.00</Price>
+</Item>
+<Item Type="essay">
+<Title>Letters to a Young Poet</Title>
+<Author>Rainer Maria Rilke</Author>
+<Description>First edition</Description>
+<Quantity>20</Quantity>
+<Price Type="regular">$15.00</Price>
+<Price Type="sale">$10.00</Price>
+</Item>
+<Item Type="poetry">
+<Title>Collected Poems</Title>
+<Author>W.H. Auden</Author>
+<Description>Signed edition</Description>
+<Quantity>1</Quantity>
+<Price Type="regular">$450.00</Price>
+<Price Type="sale">$225.00</Price>
+</Item>
+<Item Type="stories">
+<Title>The Girl from Cardigan</Title>
+<Author>Leslie Norris</Author>
+<Description>Signed edition</Description>
+<Quantity>5</Quantity>
+<Price Type="regular">$17.00</Price>
+<Price Type="sale">$12.00</Price>
+</Item>
+</ShoppingList>
